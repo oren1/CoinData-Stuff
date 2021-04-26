@@ -1,0 +1,192 @@
+e81bc28,Oren Shalev,orenico4@gmail.com,commit for new branch,2021-04-10 09:02:04 +0300
+7b46914,Oren Shalev,orenico4@gmail.com,More Tab Done,2021-04-05 07:35:48 +0300
+f505b71,Oren Shalev,orenico4@gmail.com,More Tab UI Done,2021-04-04 16:18:36 +0300
+0a92ebb,Oren Shalev,orenico4@gmail.com,commit for new branch,2021-03-30 12:56:50 +0300
+35f7a27,Oren Shalev,orenico4@gmail.com,Fixed pie chart bug: not showing slices for numbers with more than 3 points after the dot,2021-03-29 20:00:35 +0300
+a1ecb13,Oren Shalev,orenico4@gmail.com,Fixed logo bug on purchase screen,2021-03-29 19:30:44 +0300
+7aa54fe,Oren Shalev,orenico4@gmail.com,Added activity indicator in graph,2021-03-29 19:20:16 +0300
+fa5e1b3,Oren Shalev,orenico4@gmail.com,uncomment stopAnimating(),2021-03-29 18:48:05 +0300
+74217d6,Oren Shalev,orenico4@gmail.com,Fixed IndicatorView bug on iPad,2021-03-29 18:45:05 +0300
+889515b,Oren Shalev,orenico4@gmail.com,centered activity indicator of pie chart view,2021-03-29 18:17:24 +0300
+7724446,Oren Shalev,orenico4@gmail.com,project version,2021-03-23 18:02:37 +0200
+e032a40,Oren Shalev,orenico4@gmail.com,Currency selection done,2021-03-22 14:20:56 +0200
+cfcf938,Oren Shalev,orenico4@gmail.com,added CurrencySelectionVC,2021-03-19 16:04:58 +0200
+3a20b85,Oren Shalev,orenico4@gmail.com,- currency selection app changes - hard coded selection works,2021-03-18 17:15:43 +0200
+a72dea2,Oren Shalev,orenico4@gmail.com,Commit for creating new branch,2021-03-18 11:03:15 +0200
+cd756bd,Oren Shalev,orenico4@gmail.com,IAP Fix,2021-03-15 12:49:39 +0200
+dd055c9,Oren Shalev,orenico4@gmail.com,Changed QR Button image to text,2021-03-14 19:16:39 +0200
+0017ba3,Oren Shalev,orenico4@gmail.com,Added events for funnels creation,2021-03-14 18:09:15 +0200
+919f4aa,Oren Shalev,orenico4@gmail.com,Added Crashlytics,2021-03-14 15:27:15 +0200
+46d1b22,Oren Shalev,orenico4@gmail.com,commit for changing branch,2021-03-09 13:17:19 +0200
+a62b753,Oren Shalev,orenico4@gmail.com,Exchange and pair UI changes,2021-03-08 18:18:08 +0200
+e63af37,Oren Shalev,orenico4@gmail.com,select exchange and pair bug fix,2021-03-08 12:59:02 +0200
+e1b7c4f,Oren Shalev,orenico4@gmail.com,- Changed 'minimumReviewWorthyActionCount' to 10 - Calling 'requestReviewIfAppropriate' from 'viewDidLoad',2021-03-07 12:39:26 +0200
+6928d34,Avi Sapir,Avi@cordio-med.com,Commit fix CoinVC show 3D,2021-03-07 02:41:47 +0200
+13828b2,Avi Sapir,Avi@cordio-med.com,NewsVC UI improvments,2021-03-07 01:47:37 +0200
+bb653fb,Avi Sapir,Avi@cordio-med.com,Set app to dark mode always,2021-03-06 23:45:36 +0200
+e9b2279,Avi Sapir,Avi@cordio-med.com,Coin VC upgrads,2021-03-06 23:28:30 +0200
+92f848f,Oren Shalev,orenico4@gmail.com,Select Exchange And Pair done,2021-03-05 15:36:43 +0200
+8902e8b,Oren Shalev,orenico4@gmail.com,Added SelectExchangeAndPairVC,2021-03-05 12:18:56 +0200
+71304db,Oren Shalev,orenico4@gmail.com,commit for creating a new branch,2021-03-04 10:29:34 +0200
+5c0edf0,Oren Shalev,orenico4@gmail.com,Using WebSocket to update prices live in RatesVC,2021-03-02 11:50:41 +0200
+3a7a87b,Oren Shalev,orenico4@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2021-03-01 16:32:38 +0200
+07dda71,Oren Shalev,orenico4@gmail.com,commit for pulling,2021-03-01 16:22:24 +0200
+336ffee,Oren Shalev,orenico4@gmail.com,Updated 'Google-Mobile-Ads-SDK' to latest version,2021-02-26 16:40:01 +0200
+2860084,Oren Shalev,orenico4@gmail.com,Added 24h/1h change,2021-02-26 13:27:30 +0200
+b92c2ba,Oren Shalev,orenico4@gmail.com,commit before merge,2021-02-26 12:44:10 +0200
+fc8c2e5,Oren Shalev,orenico4@gmail.com,Fixed,2021-02-26 12:15:34 +0200
+589c1ea,Oren Shalev,orenico4@gmail.com,version changes,2021-02-26 11:40:01 +0200
+c89ba4d,Oren Shalev,orenico4@gmail.com,- Incase the device is an ipad, show alert instead of actionsheet,2021-02-17 20:12:09 +0200
+9338569,Oren Shalev,orenico4@gmail.com,Bug Fix,2021-02-16 17:27:54 +0200
+7c198fd,Oren Shalev,orenico4@gmail.com,Fixed indicator bug,2021-02-16 10:15:19 +0200
+cbeb41e,Oren Shalev,orenico4@gmail.com,Merge remote-tracking branch 'origin/verify-receipt-localy',2021-02-15 19:41:35 +0200
+48a5c3e,Oren Shalev,orenico4@gmail.com,no message,2021-02-15 18:15:08 +0200
+8bca171,Oren Shalev,orenico4@gmail.com,verify receipt changes done,2021-02-15 18:10:49 +0200
+5ccc3c6,Oren Shalev,orenico4@gmail.com,edited tableHeaderView in RatesVC,2021-02-15 15:30:39 +0200
+6e9e7a4,Oren Shalev,orenico4@gmail.com,Verify receipt localy done,2021-02-15 10:47:11 +0200
+6fa51bc,Oren Shalev,orenico4@gmail.com,- Added verify receipt logic - Added tests to local receipt verification,2021-02-14 17:28:17 +0200
+54723eb,Oren Shalev,orenico4@gmail.com,Validating receipt localy,2021-02-12 16:04:23 +0200
+90fe15c,Avi Sapir,Avi@cordio-med.com,Added Segmented with (1H , 1D) on Rates screen,2021-02-05 17:26:51 +0200
+e897739,Oren Shalev,orenico4@gmail.com,Version 4.0.1,2021-02-05 13:41:01 +0200
+767a607,Avi Sapir,Avi@cordio-med.com,commit test,2021-01-25 11:05:20 +0200
+8ee63f1,Oren Shalev,orenico4@gmail.com,Added terms of use and privacy policy links in purchase screen,2021-01-24 15:40:46 +0200
+4829913,Oren Shalev,orenico4@gmail.com,Removed realm configuration setting. first realm version don't need migration change code.,2021-01-22 10:49:38 +0200
+5023a53,Oren Shalev,orenico4@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2021-01-22 10:30:48 +0200
+86bf0c3,Oren Shalev,orenico4@gmail.com,Revert to last commit fixed realm crash bug,2021-01-22 10:08:37 +0200
+55605e3,Oren Shalev,orenico4@gmail.com,fixed debug issue,2021-01-21 18:59:20 +0200
+2b7d810,Oren Shalev,orenico4@gmail.com,Added logEvent for 'selectExchangeAndPair' tap in 'AddAlertTVC',2021-01-13 11:58:16 +0200
+174e8fc,Oren Shalev,orenico4@gmail.com,socket reconnects automatically on disconnect,2021-01-12 16:53:45 +0200
+83aa229,Oren Shalev,orenico4@gmail.com,calling 'forceUpdateIfNeeded' method also on 'applicationDidBecomeActive' event,2021-01-12 10:24:20 +0200
+be2184c,Oren Shalev,orenico4@gmail.com,Added price to the purchase event,2021-01-11 15:27:03 +0200
+f8e2eb7,Oren Shalev,orenico4@gmail.com,Added 'AdSupport.framework' and 'iAd.framework'  to target,2021-01-10 18:22:36 +0200
+c2e9632,Oren Shalev,orenico4@gmail.com,- Added Analytics base events logs. can add more later. - on enter forground set notifications count to zero,2021-01-08 12:48:02 +0200
+97dbc58,Oren Shalev,orenico4@gmail.com,- Added 'AnalyticsManager' - Added log events for 'PurchaseTVC' and portfolioCVC' and start logic,2021-01-07 16:55:16 +0200
+d7a2eaa,Oren Shalev,orenico4@gmail.com,- Added force update config to RemoteConfig. "appVersion" key with current app version value. - implemented force update logic,2021-01-05 17:02:47 +0200
+57390ce,Oren Shalev,orenico4@gmail.com,Fixed restore purchases logic,2021-01-04 10:16:29 +0200
+60a0543,Oren Shalev,orenico4@gmail.com,Fixed 'verifyReceipt' logic,2021-01-03 21:16:47 +0200
+63b749d,Oren Shalev,orenico4@gmail.com,verify receipt without SKRefreshReceiptRequest,2020-12-31 14:26:16 +0200
+0950a24,Oren Shalev,orenico4@gmail.com,calling refresh receipt only if there already an existing receipt,2020-12-31 13:16:46 +0200
+ca69993,Oren Shalev,orenico4@gmail.com,removed pods again,2020-12-31 11:19:37 +0200
+c0d764f,Oren Shalev,orenico4@gmail.com,added some pods to ZZBitRate scheme 'build' section,2020-12-31 10:45:54 +0200
+b292784,Oren Shalev,orenico4@gmail.com,some alert action changes,2020-12-30 16:59:30 +0200
+224871d,Oren Shalev,orenico4@gmail.com,test,2020-12-27 17:15:57 +0200
+b46fc5e,Oren Shalev,orenico4@gmail.com,edited yml file,2020-12-27 16:42:14 +0200
+d8086ad,Oren Shalev,orenico4@gmail.com,edited .travis.yml file,2020-12-27 16:36:47 +0200
+ee6fcc8,Oren Shalev,orenico4@gmail.com,changed xcode_destination to one from the list and removed pods as targets,2020-12-27 16:30:25 +0200
+97e308b,Oren Shalev,orenico4@gmail.com,another yml test,2020-12-27 16:21:30 +0200
+9133e7f,Oren Shalev,orenico4@gmail.com,using fastlane scan in yml,2020-12-27 14:22:03 +0200
+01fde6b,Oren Shalev,orenico4@gmail.com,made all targets with same os version,2020-12-27 14:09:34 +0200
+00d4b8f,Oren Shalev,orenico4@gmail.com,edited .gitignore file,2020-12-27 13:51:57 +0200
+994762f,Oren Shalev,orenico4@gmail.com,test commit,2020-12-27 13:18:42 +0200
+c72f72e,Oren Shalev,orenico4@gmail.com,commit to test travis-ci,2020-12-27 12:55:38 +0200
+06bcffa,Oren Shalev,orenico4@gmail.com,added .travis.yml file,2020-12-27 12:43:01 +0200
+ff694e3,Oren Shalev,orenico4@gmail.com,added .gitignore file to ignore Pods directory,2020-12-26 14:47:02 +0200
+372a748,Oren Shalev,orenico4@gmail.com,removed Pods directory from git,2020-12-26 14:41:34 +0200
+7e10f83,Oren Shalev,orenico4@gmail.com,- added 'needToFetchAllData' function - added UnitTest for 'needToFetchAllData' function in 'UserDataManager' - fixed crash in portfoliosCVC screen - added two preprocessor flags: 'IAP_DISABLED', 'FETCH_ALL_DATA',2020-12-22 21:38:35 +0200
+6223839,Oren Shalev,orenico4@gmail.com,Added a call to SKReceiptRefreshRequest and only when the receipt is refreshed make a call to verifyReceipt endpoint,2020-12-13 14:15:47 +0200
+9d4927d,Oren Shalev,orenico4@gmail.com,- if user is not a pro anymore then delete all of the exceeiding portfolios and notifications - add custom alert to show on PortfolioCVCell,2020-12-11 15:51:39 +0200
+7add011,Oren Shalev,orenico4@gmail.com,IAP Done.,2020-12-09 14:11:25 +0200
+de7f602,Oren Shalev,orenico4@gmail.com,- Added unit test for downgrade logic - added custom alert for 3 second in portfolioCVCell,2020-12-04 15:52:07 +0200
+2a09637,Oren Shalev,orenico4@gmail.com,- in portfolioCVCell, adding the error alert as subview -  added WebSocketManager as base for next version,2020-12-04 10:40:10 +0200
+a2b88c6,Oren Shalev,orenico4@gmail.com,User can send mail to request exchange support from ''chooseExchangeTVC",2020-12-03 10:50:13 +0200
+2ccc7b7,Oren Shalev,orenico4@gmail.com,- Added downgrade logic - Added unit test for 'validateAppleReceipt' parse logic,2020-12-02 11:27:57 +0200
+0ee863c,Oren Shalev,orenico4@gmail.com,added receipt validation logic,2020-11-30 19:36:05 +0200
+c611f48,Oren Shalev,orenico4@gmail.com,Added request for apple receipt,2020-11-29 17:00:11 +0200
+0e65499,Oren Shalev,orenico4@gmail.com,fetch platform data only after 'fetchDataTimeInMiliSeconds' expires,2020-11-26 15:01:01 +0200
+b64c08d,Oren Shalev,orenico4@gmail.com,- allowing to add notification only if 'User' object has token - if user didn't allow notification in app start, checking if the settings permission have changed every appWillEnterForeground event to then send the token to the server,2020-11-26 10:00:29 +0200
+8da32fd,Oren Shalev,orenico4@gmail.com,- added banner to RatesVC - after a purchase completes, disabling the ads,2020-11-25 13:41:04 +0200
+636cc8e,Oren Shalev,orenico4@gmail.com,Purchase feature completed,2020-11-24 13:17:42 +0200
+2c9ed05,Oren Shalev,orenico4@gmail.com,purchase screen ui done,2020-11-19 14:55:18 +0200
+e0bdfdf,Oren Shalev,orenico4@gmail.com,purchase screen ui done,2020-11-19 14:54:28 +0200
+26770a9,Oren Shalev,orenico4@gmail.com,Added IAP,2020-11-16 16:52:56 +0200
+e432bc7,Oren Shalev,orenico4@gmail.com,Added price format to Double extension,2020-11-16 14:07:14 +0200
+1e2e2cd,Oren Shalev,orenico4@gmail.com,changed barcode image to camera image,2020-11-11 16:30:55 +0200
+b7aef37,Oren Shalev,orenico4@gmail.com,change index fix,2020-11-11 12:19:42 +0200
+2a815b7,Oren Shalev,orenico4@gmail.com,updating portfolio total value every 5 seconds and color the change tail,2020-11-11 12:06:07 +0200
+4ade24c,Oren Shalev,orenico4@gmail.com,In RatesVC updating prices for visible cells every 5 seconds.,2020-11-09 15:13:24 +0200
+70e69df,Oren Shalev,orenico4@gmail.com,few bug fixes,2020-11-02 11:52:26 +0200
+b08669d,Oren Shalev,orenico4@gmail.com,fixed a few bugs,2020-11-01 14:40:03 +0200
+78cd895,avi zazati,Aviza173@gmail.com,WIP: Added in app perches,2020-11-01 02:13:35 +0200
+a0c1634,Oren Shalev,orenico4@gmail.com,made a sync request for creating a user if not exist first thing in the appDelegate,2020-10-30 11:50:36 +0200
+377e638,Oren Shalev,orenico4@gmail.com,add exchange portfolio flow done, added edit portfolio screen,2020-10-28 16:07:07 +0200
+667166d,Oren Shalev,orenico4@gmail.com,Real Data on addPortfolioTVC, Added QR Reader, scanning the bar code, parsing it trough the server and adding the keys to the textFileds,2020-10-26 16:40:22 +0200
+8d61fd4,Oren Shalev,orenico4@gmail.com,Added AddExchangePortfolioTVC and finished UI,2020-10-14 11:32:18 +0300
+430f6a0,Oren Shalev,orenico4@gmail.com,Added ChooseExchangeTVC,2020-10-13 11:54:55 +0300
+e896f4a,Oren Shalev,orenico4@gmail.com,set portfolio cells to selection none,2020-10-12 17:43:34 +0300
+fd7df14,Oren Shalev,orenico4@gmail.com,Manual portfolio flow done,2020-10-12 17:06:07 +0300
+a6ecdcf,Oren Shalev,orenico4@gmail.com,editing coin balance,2020-10-11 13:52:30 +0300
+6dd5d1b,avi zazati,Aviza173@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2020-10-10 20:01:56 +0300
+e784168,avi zazati,Aviza173@gmail.com,move few coin to the start of allcoins array,2020-10-10 19:52:53 +0300
+991f2c9,avi zazati,Aviza173@gmail.com,FIX search,2020-10-10 19:52:14 +0300
+dcfa150,Oren Shalev,orenico4@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2020-10-08 17:47:54 +0300
+7a8eedd,Oren Shalev,orenico4@gmail.com,adding coin,2020-10-08 17:08:27 +0300
+2813cfd,avi zazati,Aviza173@gmail.com,Added rate us after user share from main screen,2020-10-08 02:05:54 +0300
+f2b83cd,avi zazati,Aviza173@gmail.com,Fix FavoritesVC,2020-10-08 01:07:38 +0300
+97c8a4b,avi zazati,Aviza173@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2020-10-06 19:17:34 +0300
+38130e0,avi zazati,Aviza173@gmail.com,added paging to main screen,2020-10-06 19:17:23 +0300
+d60675f,Oren Shalev,orenico4@gmail.com,added page control,2020-10-06 17:19:48 +0300
+f33cb50,Oren Shalev,orenico4@gmail.com,added portfolioCVCell login,2020-10-06 13:00:08 +0300
+4b587cc,Oren Shalev,orenico4@gmail.com,Added multiple portfolio screen with collectionViewCell test and request for portfolios,2020-09-30 15:02:59 +0300
+4cb7763,Oren Shalev,orenico4@gmail.com,no message,2020-09-23 13:03:55 +0300
+ff73a71,Oren Shalev,orenico4@gmail.com,changed alert icon,2020-09-23 13:02:52 +0300
+23232d9,Oren Shalev,orenico4@gmail.com,Finished Notifications Feature!,2020-09-23 12:20:57 +0300
+428571a,Oren Shalev,orenico4@gmail.com,- added createNotification call - added updateNotification call,2020-09-16 16:25:50 +0300
+e4d0cc6,Oren Shalev,orenico4@gmail.com,Finished the notification screens, need to execute the network requests,2020-09-15 17:52:00 +0300
+e5bbfd8,Oren Shalev,orenico4@gmail.com,- choosing from list of coins - opening AdNotificationTVC,2020-09-13 15:57:37 +0300
+327d900,Oren Shalev,orenico4@gmail.com,- Choosing coin from list - opening AddNotificationTVC,2020-09-13 15:56:33 +0300
+65ac864,Oren Shalev,orenico4@gmail.com,Added design o AlertsVC, swiping enabled and started the api call for updating notification status,2020-09-09 17:25:18 +0300
+0f164e4,Oren Shalev,orenico4@gmail.com,AlertsVC Almost Done started to design the tableViewCell need to support the swipe gesture and it's capabilities Edit, pause and delete,2020-09-08 17:18:03 +0300
+2c2b2b0,Oren Shalev,orenico4@gmail.com,Added updateUserToken api request and calling it from AppDelegate,2020-09-07 14:14:31 +0300
+6e73bba,Oren Shalev,orenico4@gmail.com,changed parsing code a bit,2020-09-07 13:51:02 +0300
+83bdf16,Oren Shalev,orenico4@gmail.com,Added - User realm object - Network call for creating user - parsing method for user - creating user when getting the token,2020-09-07 13:32:35 +0300
+cfe0c4f,Oren Shalev,orenico4@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2020-09-06 12:34:09 +0300
+02e914c,Oren Shalev,orenico4@gmail.com,commit for pulling,2020-09-06 12:24:47 +0300
+bf42d85,Avi Sapir,Avi@cordio-med.com,bug fixes,2020-07-09 14:17:12 +0300
+6acedc1,Avi Sapir,Avi@cordio-med.com,Cahnge main list api to totalvolfull,2020-07-09 12:46:00 +0300
+d4b47a5,Avi Sapir,Avi@cordio-med.com,running from minimac,2020-07-07 19:46:10 +0300
+4875b0a,avi zazati,Aviza173@gmail.com,Fix bug: portfolio screen view will apear,2020-06-25 22:58:38 +0300
+83ec7f1,avi zazati,Aviza173@gmail.com,Replace coin market cap api with cryptocompare,2020-06-25 22:32:38 +0300
+8fba445,avi zazati,Aviza173@gmail.com,Fix label color in add coin vc,2020-06-25 22:23:50 +0300
+11a99f8,avi zazati,Aviza173@gmail.com,Merge branch 'master' of https://bitbucket.org/aviza/coindata,2020-06-25 18:07:01 +0300
+7882e40,Oren Shalev,orenico4@gmail.com,removed .DS_Store,2020-06-25 18:05:57 +0300
+52c2087,Oren Shalev,orenico4@gmail.com,removed IDEWorkspaceChecks.plist,2020-06-25 17:56:40 +0300
+320c74f,avi zazati,Aviza173@gmail.com,xcSettings,2020-06-25 17:44:12 +0300
+2262516,avi zazati,Aviza173@gmail.com,Revert "Revert "v1.2.1"",2020-06-25 17:32:56 +0300
+be161b3,avi zazati,Aviza173@gmail.com,Revert "v1.2.1",2020-06-25 17:32:09 +0300
+c5ff8ab,avi zazati,Aviza173@gmail.com,v1.2.1,2020-06-25 16:40:17 +0300
+deff5c1,avi zazati,Aviza173@gmail.com,Fix app not showing the main list,2020-06-25 16:40:06 +0300
+8606bb4,Oren Shalev,orenico4@gmail.com,Added push notification and firebase messagin capabilities,2020-06-24 13:00:34 +0300
+817e1bc,Oren Shalev,orenico4@gmail.com,Added Push Notification Logic,2020-06-16 14:44:10 +0300
+482d6e6,avi zazati,Aviza173@gmail.com,fix crypto Api bug,2020-03-16 02:09:18 +0200
+3bafc3b,avi zazati,,v 1.2.1 b 10,2018-09-11 19:57:54 +0300
+ff373f6,avi zazati,,v 1.2.0 b9,2018-09-11 19:56:45 +0300
+0a374e2,avi zazati,,added fb login app active,2018-09-11 16:02:12 +0300
+82f5138,avi zazati,,added new screen portfolio,2018-09-11 13:59:48 +0300
+ad65c37,avi zazati,,v 1.0.7 b 7,2018-08-25 17:18:46 +0300
+5eed180,avi zazati,,remove test devices,2018-08-25 17:11:01 +0300
+e5b4873,avi zazati,,add price format,2018-08-25 17:07:17 +0300
+df2ec93,avi zazati,,Commit again,2018-08-25 16:48:39 +0300
+e60ffea,Avi zaza,Aviza173@gmail.com,images,2018-02-08 20:13:20 +0200
+6046de2,Avi zaza,Aviza173@gmail.com,before Adding core data,2018-02-08 14:05:01 +0200
+4a2e8b1,Avi zaza,Aviza173@gmail.com,V 1.0.5,2018-02-04 02:11:16 +0200
+bf1d761,Avi zaza,Aviza173@gmail.com,Added remote config FireBase,2018-02-04 02:04:31 +0200
+501100f,Avi zaza,Aviza173@gmail.com,pods update ... added firebase,2018-02-02 20:49:13 +0200
+eecd0f0,Avi zaza,Aviza173@gmail.com,pods update added firebase,2018-02-02 20:47:23 +0200
+7e2b749,Avi zaza,Aviza173@gmail.com,Version 1.0.2,2018-01-02 22:16:55 +0200
+74a53fe,Avi zaza,Aviza173@gmail.com,Added crypto panic news and Info button,2018-01-01 15:41:06 +0200
+a842e1c,Avi zaza,Aviza173@gmail.com,version v1.0,2017-12-29 13:51:17 +0200
+de42bab,Avi zaza,Aviza173@gmail.com,added loading to trade live monitor,2017-12-27 13:55:07 +0200
+4034761,Avi zaza,Aviza173@gmail.com,icon Change,2017-12-26 11:32:06 +0200
+f0eaf25,Avi zaza,Aviza173@gmail.com,bug fixes,2017-12-26 11:24:37 +0200
+c34e02c,Avi zaza,Aviza173@gmail.com,fix graph , fix ad first time bug , added get news,2017-12-26 04:09:11 +0200
+fe9e2b8,Avi zaza,Aviza173@gmail.com,Added Search,2017-12-24 06:28:30 +0200
+8c5f2e6,Avi zaza,Aviza173@gmail.com,Added Ad mob,2017-12-23 00:04:46 +0200
+22e1a7b,Avi zaza,Aviza173@gmail.com,Monitor with exchange collection,2017-12-21 06:03:05 +0200
+e286b17,Avi zaza,Aviza173@gmail.com,Added live monitor,2017-12-20 14:45:00 +0200
+7f63529,Avi zaza,Aviza173@gmail.com,NEWS vc improvements,2017-12-17 23:00:23 +0200
+2eb09d5,Avi zaza,Aviza173@gmail.com,added logo,2017-12-17 22:28:52 +0200
+2dc69cb,Avi zaza,Aviza173@gmail.com,Added socket io,2017-12-17 14:51:02 +0200
+c5f9264,Avi zaza,Aviza173@gmail.com,Added "No Data" label to graph,2017-12-16 17:08:31 +0200
+b387e08,Avi zaza,Aviza173@gmail.com,Fix Parsing Crash,2017-12-16 17:07:43 +0200
+13b58f4,Avi zaza,Aviza173@gmail.com,RateVC deselectRow,2017-12-16 01:20:03 +0200
+4ad7871,Avi zaza,Aviza173@gmail.com,initCommit,2017-12-15 15:47:43 +0200
